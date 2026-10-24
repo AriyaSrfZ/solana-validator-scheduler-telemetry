@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  telemetry:
+    build: .
+    container_name: solana-validator-telemetry
+    environment:
+      - DRY_RUN=true
+      - SPEND_CAP_SOL=0.02
+      - SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+    volumes:
+      - ./data:/app/data:ro
+    command: ["--data-dir", "./data"]

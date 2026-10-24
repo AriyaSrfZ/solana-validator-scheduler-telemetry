@@ -1,0 +1,128 @@
+[
+  {
+    "slot": 460184800,
+    "blockhash": "U1NabpChju4Db5kQjvHNRDDBmhkojD3U242xqo7tKB7",
+    "block_time": 1792703843,
+    "validator_name": "Shinobi Systems",
+    "validator_node": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+    "client_version": "4.3.2",
+    "total_transactions": 724,
+    "jito_bundle_transactions": 38,
+    "scheduler_transactions": 686,
+    "spearman_fee_rank_correlation": 0.0738,
+    "avg_head_priority_fee_lamports": 12333.4,
+    "avg_tail_priority_fee_lamports": 8269.7,
+    "sample_signatures": [
+      "5NEUXhSCu8tjDWtnUpWH6QfmvLHF167gnmNZa7enXgMFUY9VXNdRwztAa7q4Ci5mV37W8XRCKPBo2eYjb95vSuXq",
+      "3ubnfMJSMP5SysT9BsEEwX3iR1WJcpAio4bAqZr2Hob827P6zGJfjErCCicfZFCgoZx78e7PVwkZHyiALW7Caagw",
+      "4sQZigbfcQBbD3py86LLw1mEtPmaoJHj6g5yKzSmV5Xxj1NJN8P6dmBvAtAZQS7pAQy6uD7gVVw4494Tg9FUBcf4",
+      "aiTM5egJvovo1Aagfz5rysSeghKtgREijptpFmw5RWzYEoq388VrsQ8No3cUWwqfmy6DRSJpsv4KJcA1xTf6Nue",
+      "4jhEp4WTPanmk2y55a7a7Bwd7s3JhmHfnZRfJj9W3ABmiE6cGeRJRhnZhL6sqmVZXWxNVr9nkcEBCWipnFj2aPLb"
+    ]
+  },
+  {
+    "slot": 460184876,
+    "blockhash": "JD6Y2MpmKEQZSXUAjTRVy1Nx1VWKw36YPNj2JXW5qxo9",
+    "block_time": 1792703859,
+    "validator_name": "Kraken",
+    "validator_node": "krakeNd6ednDPEXxHAmoBs1qKVM8kLg79PvWF2mhXV1",
+    "client_version": "4.3.2",
+    "total_transactions": 388,
+    "jito_bundle_transactions": 4,
+    "scheduler_transactions": 384,
+    "spearman_fee_rank_correlation": -0.0061,
+    "avg_head_priority_fee_lamports": 417.5,
+    "avg_tail_priority_fee_lamports": 3033.1,
+    "sample_signatures": [
+      "4BzTmE3j8BxxN1J6hUihwqqU596BpKbywQashEBcRnVCTQfrzdBZHs3ysQPFXt93rtn55eX58dg7oMpR5sjCTE46",
+      "5SZKUTezVPvgwaMtKdwUhXAkigVuPcQzY4qY7c3fjcg4vbvea38qWxoWJDdzUuv8TcyxQeVEi19iMjpLLkThpWae",
+      "3tJWe3TMRfJVTqUUa8CxUfDDd3HeuGuxQ48T6BUaTiSkKSF67tfXDp2iV3tPbfRjw46pNkMrm7X5yrGG29bzY6Pw",
+      "4o7tgCY9PAiSkS5dx4n2M4f4KC6X9FsfpBuCaAJ559X8m1bKZctd7kXmQ59QYdh83KWvv4WRBLfLG4ZebrtRx6Tw",
+      "1TuRhFQ17QhvFrtMpRygBVcx3T3UNpMaNRykEELBjAfTys4jmxJ2T4KxUo8M61DxCU3A3mDwrsyoMPaAQt7VyFX"
+    ]
+  },
+  {
+    "slot": 460184832,
+    "blockhash": "3R2Y3gfdVUgbFiYhowangEzG3o5UEe2XiX7pRAdspf4J",
+    "block_time": 1792703850,
+    "validator_name": "JD549",
+    "validator_node": "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB",
+    "client_version": "26.10.4",
+    "total_transactions": 574,
+    "jito_bundle_transactions": 39,
+    "scheduler_transactions": 535,
+    "spearman_fee_rank_correlation": -0.293,
+    "avg_head_priority_fee_lamports": 5108.3,
+    "avg_tail_priority_fee_lamports": 13898.4,
+    "sample_signatures": [
+      "NhhAvBa59ct1Zp7xzHtSWDJ5Y7NNmmDEbwa2nnvNui6ns6CDcYm77qNjApMThmVw25SBPApUiyS6s28DeqfhWTq",
+      "iqRXkkhrhUrVPg2SbiGRGPTUSg9xqTfov4iXWa8YjwoPhqzbdp7Mn1k9h2gXcKoQ6ThT8PFvPa8sWNFa8bynJ8B",
+      "2mFjveGwrof5svHvG4oWTBf1tB58fQde2Ww5YW4D9uAmScWjn3W4JtmBh51QwM7reuPvQGCn2Z4pBwGfXrQU2RrJ",
+      "8H8pC8peTSLFx31DyMg1KyT5zQgD8uPuQnKiik8at2g9XT5aGWTrjii2SqctW4ZXmJkmhU5LSQ47wSCTbwyY8Bh",
+      "267Pxa5Q6mJXxiNcCVHXaLH1uk6gTay6XovegQQoH3LwiezNgW5r5xgaBw7uu6ahnf44GXKuT8zC7B64K5N7hM7R"
+    ]
+  },
+  {
+    "slot": 460184856,
+    "blockhash": "Hi94v1uayWfYw67u89ruTgo9fFnwBRtX39DyTs158sKR",
+    "block_time": 1792703855,
+    "validator_name": "Awesome-FD",
+    "validator_node": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+    "client_version": "26.10.4",
+    "total_transactions": 580,
+    "jito_bundle_transactions": 11,
+    "scheduler_transactions": 569,
+    "spearman_fee_rank_correlation": 0.1118,
+    "avg_head_priority_fee_lamports": 5399.8,
+    "avg_tail_priority_fee_lamports": 2040.8,
+    "sample_signatures": [
+      "2KUz4Fqpd82yaj4nFJZs3nqNepdSZeCT38qNxxDRFUJKcpB2DFh7o3Cbah8TQgy5pkWA6CKbCCN9g5CREzKC69Zx",
+      "8zvR7BNhS5ovvuetNtLo3wZvqJyWQcnZUcko2B69yqXBZj8VcBWAuFDfurz1g2o9D1BdzDX4rT1u9DG7ikjLEoC",
+      "3jY682UAC57tqpjTyzgfPbzz9ZBfTw5W1LuoHwceqGyaVv4zbiJbVC5EmWrqhn4i7vogHjGXCYWhNJMXdZ6SCQVC",
+      "U2JzBPDfq5oHz573HR5RgdEG9bdzEvsQCgmyETG7VhsNX2oomz4NRRB12x59oDYn7SGqtL8DeQiHfPgwBVXy6ju",
+      "462MeNvjhjDDEdw8iWfuxQH7DNqQbCcJm517XvvBrNeRLtX5vDjJMGevi1hyCdrYW7RyeZQGXTCM7jjMxL2NFrpY"
+    ]
+  },
+  {
+    "slot": 460184872,
+    "blockhash": "EAuPcnapKum6YR7KUab4vrf8fdstUXqMKuP6j8qPJXwS",
+    "block_time": 1792703859,
+    "validator_name": "Revtec-FD",
+    "validator_node": "revtecFsGSRCdF29atQvchSXrjwBesA9vSisD4fyH5K",
+    "client_version": "26.10.4",
+    "total_transactions": 1276,
+    "jito_bundle_transactions": 39,
+    "scheduler_transactions": 1237,
+    "spearman_fee_rank_correlation": 0.1613,
+    "avg_head_priority_fee_lamports": 17925.4,
+    "avg_tail_priority_fee_lamports": 831.4,
+    "sample_signatures": [
+      "3BwmHm6Q55K3vJZrAUZb1Sh62S3i3gXxb6GyVitUkEZXo4YaJhaP5LTNvBSkwmkztvC4oTHAJF8Hb488tGE7DabL",
+      "5FTYrSjBr3uEftTEoStzYfwKst6mj5ZwbRR7mFyJ2dhxDNoC3Y6akCat2jrnJbmzjTtoHsd3SHHCRsVkUU1uasUz",
+      "4qUaAi9Cvm5ViYzAKqkqgTu44uHhhdt6fRJMchpgbV22xmdooDghwCu7Wjrqhnskpk7Mz8KGFVJMyunrrHameHvc",
+      "5SigPVKutCw5Nup6SkgRNUc7y4sRDZYv1H51aZG4Gqs2oqUjWjTv6E7rSZiwYFAiXgzGeAb2BabH2564S1tRFLQK",
+      "2owYqm3Sv7CdjCHAqXEuzeiCT2kSoWm8qHHu8hJDCrRX8k6wJi3Pdf2UtYS3XMtd5Kup3kno7Zq7RyzX3ntZRRbG"
+    ]
+  },
+  {
+    "slot": 460184812,
+    "blockhash": "8AkACs17LfhYmPtPbxsZh6q5zvL6Y5R5EumWePwNB7cG",
+    "block_time": 1792703846,
+    "validator_name": "Validator-9rkJ",
+    "validator_node": "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ",
+    "client_version": "4.3.0",
+    "total_transactions": 339,
+    "jito_bundle_transactions": 43,
+    "scheduler_transactions": 296,
+    "spearman_fee_rank_correlation": -0.0154,
+    "avg_head_priority_fee_lamports": 31965.5,
+    "avg_tail_priority_fee_lamports": 4405.0,
+    "sample_signatures": [
+      "3VyTAKzxH4QEW9ZUSZeGCxP1EGsY2UNNccuGNxneN6vwGQwYanNfycTgFicfyxY4wUPsEY3cpi8K1mVKTVR25sZQ",
+      "3QHy8mcqXFHJMtoM1qFBVRnfgU3ATh7Q6EVrtRCZu7oT4UfyR9hb4VE9iuh7bvfinQmfyj2xMPtrxM5djuinLEbR",
+      "5cUzeQCTwYFraojyK9TwFvEbVamSC7bzRjkxVNpRoMWc6xcYxCZiPB23r6jWvA8EeXJPcm89ZJUBy4xUiMdKpScU",
+      "2iZLvqCWDZyRbTVSzDx8XcGNcQzigXtFmZw6UAiZHeoCcW5UN2rgqgVfNTtkJqZssYxSWPrk5v1owj2WXqy555CP",
+      "4U1RPQGBvxswKkShr2ghhPejGGZ5buQDfo9VQ2goiZUZhZdq9cHspza2wDupUfGM436Ckde5YwtfmZ67pmmNSTEt"
+    ]
+  }
+]
