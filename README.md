@@ -3,7 +3,7 @@
 Empirical measurement harness and analysis suite investigating transaction ordering rules across Solana Mainnet validators running different client software and forks.
 
 Author: Ariya Sarrafzadeh (Callsign: HaroSS)  
-Solana Settlement Address: `2nNtE6uEJQjX5vN1cS1m4FBRDuxxqq2hwmtFqn92xkNd`  
+Solana Settlement Address: `GPnfvrNrro1PJTbN4moGkTwtJm3iqywLDZnAYY7pco52`  
 Network: Solana Mainnet  
 Epoch: 1065 (Measured post-Alpenglow upgrade, October 22 to 23, 2026)
 

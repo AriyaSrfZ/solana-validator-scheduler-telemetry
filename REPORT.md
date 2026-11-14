@@ -3,7 +3,7 @@
 Measurement and statistical analysis of transaction ordering mechanisms across Solana Mainnet validators.
 
 **Author:** Ariya Sarrafzadeh (Callsign: HaroSS)  
-**Solana Settlement Address:** `2nNtE6uEJQjX5vN1cS1m4FBRDuxxqq2hwmtFqn92xkNd`  
+**Solana Settlement Address:** `GPnfvrNrro1PJTbN4moGkTwtJm3iqywLDZnAYY7pco52`  
 **Measurement Dates:** October 22 to 23, 2026 (Epoch 1065, Mainnet-Beta post-Alpenglow upgrade)  
 **Sample Space:** 3,831 Mainnet transactions analyzed across 6 distinct validator blocks  
 
